@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Banon Kenta Oktora</h1>
 <h3 align="center">I like to participate in CTF challenges, and I like doing Reverse Engineer type of challenge.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kenntcky&label=Profile%20views&color=0e75b6&style=flat" alt="kenntcky" /> </p>
-
 - 🔭 I’m currently working on **Pandhu, an earthquake information mobile application.**
 
 - 🌱 I’m currently learning **Cyber Security, Penetration Tester**
