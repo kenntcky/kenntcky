@@ -1,4 +1,17 @@
-## Hi there 👋
+## こんにちは！ 👋
+
+はじめまして！
+My name is Banon Kenta Oktora. Just call me Banon, that is fine.
+
+I am currently interested and learning these things:
+- Cyber Security
+- Penetration Tester
+
+I like to participate in CTF challenges, and I like doing Reverse Engineer type of challenge.
+I guess that's it, thank you for taking a look at my profile. Have a great day!
+
+## GitHub Stats 📊
+
 
 <!--
 **kenntcky/kenntcky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
