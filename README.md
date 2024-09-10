@@ -7,8 +7,7 @@
 
 # 📲 My Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/banon-kenta-oktora-416635310/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/banon-kenta-oktora-416635310/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://instagram.com/kenntcky_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
 </p>
 
