@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Banon Kenta Oktora</h1>
-<h3 align="center">I like to participate in CTF challenges, and I like doing Reverse Engineer type of challenge.</h3>
+<h1 align="center">Hello There! 👋</h1>
+<h3 align="center">はじめまして！ My name is Banon Kenta Oktora, just call me Banon.<br/>I like to participate in CTF challenges, and I like doing Reverse Engineer type of challenge.</h3>
 
 - 🔭 I’m currently working on **Pandhu, an earthquake information mobile application.**
 
