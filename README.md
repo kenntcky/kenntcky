@@ -1,6 +1,6 @@
-## こんにちは！ 👋
+# こんにちは！ 👋
 
-はじめまして！
+始めまして！
 My name is Banon Kenta Oktora. Just call me Banon, that is fine.
 
 I am currently interested and learning these things:
