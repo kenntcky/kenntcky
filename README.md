@@ -1,9 +1,8 @@
 <h1 align="center">Hello There! 👋</h1>
 <h3 align="center">はじめまして！ My name is Banon Kenta Oktora, just call me Banon.<br/>I like to participate in CTF challenges, and I like doing Reverse Engineering type of challenge.</h3>
 
-- 🔭 I’m currently working on **Pandhu, an earthquake information mobile application.**
-
-- 🌱 I’m currently learning **Cyber Security, Penetration Tester**
+I am very interested in **Ethcial Hacking** and **Penetration Testing**. And I want to learn more about them.<br/>
+I also want to learn and be able to participate in a **Bug Bounty Program**.
 
 ## 📲 My Socials:
 <p align="left">
